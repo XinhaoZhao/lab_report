@@ -1,7 +1,7 @@
-1. 
+1.  
 1.![Image](https://i.imgur.com/Jrj1oTB.png)  
 2. [Link](https://github.com/XinhaoZhao/markdown-parser/blob/f2f386353a7b0eb201faf2a606d0cbc7e37735bd/test-file2.md)  
 3.![Image](https://i.imgur.com/PLVfUz2.png)  
 4. The symptom is that an exception was thrown when running the code on the new test file,  
    and this is because in the new file, we used a different way of adding links using Markdown,  
-   which the code could not handle.
+   which the code could not handle.  
